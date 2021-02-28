@@ -1,6 +1,6 @@
 # Replace String
 
-This program will replace specific keywords, saved in a text file, with the word <redacted> when the user hits the "run" button.
+This program will replace specific keywords, saved in a text file, with the word "redacted" when the user hits the "run" button.
   
 Requires the following modules -
 
