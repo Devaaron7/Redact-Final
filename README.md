@@ -12,3 +12,6 @@ Usage
 2. Install Wxpython module using pip ( pip install Wxpython )
 3. Run the main.py program to start.
 4. Enter the text you want processed into the top window, and hit "Run Redaction Program"
+
+
+![image](https://user-images.githubusercontent.com/65022882/109436995-91ca5380-79f0-11eb-99cc-15a3bed9b46a.png)
